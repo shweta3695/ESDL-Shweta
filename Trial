@@ -5,8 +5,10 @@ using namespace std;
 int main()
 {
   int a,b;
-  a=8;
-  b=9;
+  cout<<"Enter value for a:"<<endl;
+  cin>>a;
+  cout<<"Enter value for b:"<<endl;
+  cin>>b;
   int sum;
   sum=a+b;
   cout<<"a:"<<a<<endl;
