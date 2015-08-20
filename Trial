@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
   int a,b;
+  cout<<"Hello World!!"<<endl;
   cout<<"Simple program of addition"<<endl;
   cout<<"Enter value for a:"<<endl;
   cin>>a;
